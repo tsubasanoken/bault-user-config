@@ -14,7 +14,7 @@
 
 ### Do you have a `zmk-config` repo already?
 
-You can add the original BaulT repository as a module by modifying your `config/west.yml` file.
+You can add the BaulT zmk config repository as a module by modifying your `config/west.yml` file.
 
 ```yaml
 manifest:
