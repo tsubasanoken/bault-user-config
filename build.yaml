@@ -19,4 +19,5 @@
 ---
 include:
   - board: bault
+  - board: bault
     shield: settings_reset
